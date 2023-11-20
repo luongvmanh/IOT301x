@@ -1,0 +1,5 @@
+[{
+  "file": "D:\\STUDY\\Programming\\MOOC Courses\\Funix\\CC1\\IOT301x\\Workspace_Codelite\\Bai2_Lab1\\main.c",
+  "directory": "D:\\STUDY\\Programming\\MOOC Courses\\Funix\\CC1\\IOT301x\\Workspace_Codelite\\Bai2_Lab1",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"D:\\STUDY\\Programming\\MOOC Courses\\Funix\\CC1\\IOT301x\\Workspace_Codelite\\Bai2_Lab1\\main.c\" -o \"D:\\STUDY\\Programming\\MOOC Courses\\Funix\\CC1\\IOT301x\\Workspace_Codelite\\Bai2_Lab1\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

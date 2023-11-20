@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Workspace_Codelite" Database="" Version="10000">
+  <Project Name="Bai2_Lab1" Path="Bai2_Lab1/Bai2_Lab1.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Bai2_Lab1" ConfigName="Debug"/>
+      <Project Name="Bai2.1_Lab2" ConfigName="Debug"/>
+      <Project Name="Bai2.1_Lab2" ConfigName="Debug"/>
+      <Project Name="Bai2.2_Lab2" ConfigName="Debug"/>
+      <Project Name="Bai2.3_Lab2" ConfigName="Debug"/>
+      <Project Name="Bai3.1_Lab3" ConfigName="Debug"/>
+      <Project Name="Bai3.2_Lab3" ConfigName="Debug"/>
+      <Project Name="Bai3.3_Lab3" ConfigName="Debug"/>
+      <Project Name="Bai4.1_Lab4" ConfigName="Debug"/>
+      <Project Name="Bai4.2_Lab4" ConfigName="Debug"/>
+      <Project Name="Bai4.3_Lab4" ConfigName="Debug"/>
+      <Project Name="Bai4.4_Lab4" ConfigName="Debug"/>
+      <Project Name="Bai4.5_Lab4" ConfigName="Debug"/>
+      <Project Name="Bai4.6_Lab4" ConfigName="Debug"/>
+      <Project Name="Bai4.7_Lab4" ConfigName="Debug"/>
+      <Project Name="Bai4.8_Lab4" ConfigName="Debug"/>
+      <Project Name="Bai4.9_Lab4" ConfigName="Debug"/>
+      <Project Name="Bai5.1_Lab5" ConfigName="Debug"/>
+      <Project Name="Bai5.2_Lab5" ConfigName="Debug"/>
+      <Project Name="Bai5.3_Lab5" ConfigName="Debug"/>
+      <Project Name="Bai5.4_Lab5" ConfigName="Debug"/>
+      <Project Name="Bai6.1_Lab6" ConfigName="Debug"/>
+      <Project Name="Bai6.2_Lab6" ConfigName="Debug"/>
+      <Project Name="Bai7.1_Lab7" ConfigName="Debug"/>
+      <Project Name="Bai7.2_Lab7" ConfigName="Debug"/>
+      <Project Name="Bai7.3_Lab7" ConfigName="Debug"/>
+      <Project Name="Bai7.4_Lab7" ConfigName="Debug"/>
+      <Project Name="Bai7.5_Lab7" ConfigName="Debug"/>
+      <Project Name="Bai8.1_Lab8" ConfigName="Debug"/>
+      <Project Name="Bai8.2_Lab8" ConfigName="Debug"/>
+      <Project Name="Bai9.1_Lab9" ConfigName="Debug"/>
+      <Project Name="Bai9.2_Lab9" ConfigName="Debug"/>
+      <Project Name="Bai9.3_Lab9" ConfigName="Debug"/>
+      <Project Name="Bai9.4_Lab9" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Bai2_Lab1" ConfigName="Release"/>
+      <Project Name="Bai2.1_Lab2" ConfigName="Release"/>
+      <Project Name="Bai2.1_Lab2" ConfigName="Release"/>
+      <Project Name="Bai2.2_Lab2" ConfigName="Release"/>
+      <Project Name="Bai2.3_Lab2" ConfigName="Release"/>
+      <Project Name="Bai3.1_Lab3" ConfigName="Release"/>
+      <Project Name="Bai3.2_Lab3" ConfigName="Release"/>
+      <Project Name="Bai3.3_Lab3" ConfigName="Release"/>
+      <Project Name="Bai4.1_Lab4" ConfigName="Release"/>
+      <Project Name="Bai4.2_Lab4" ConfigName="Release"/>
+      <Project Name="Bai4.3_Lab4" ConfigName="Release"/>
+      <Project Name="Bai4.4_Lab4" ConfigName="Release"/>
+      <Project Name="Bai4.5_Lab4" ConfigName="Release"/>
+      <Project Name="Bai4.6_Lab4" ConfigName="Release"/>
+      <Project Name="Bai4.7_Lab4" ConfigName="Release"/>
+      <Project Name="Bai4.8_Lab4" ConfigName="Release"/>
+      <Project Name="Bai4.9_Lab4" ConfigName="Release"/>
+      <Project Name="Bai5.1_Lab5" ConfigName="Release"/>
+      <Project Name="Bai5.2_Lab5" ConfigName="Release"/>
+      <Project Name="Bai5.3_Lab5" ConfigName="Release"/>
+      <Project Name="Bai5.4_Lab5" ConfigName="Release"/>
+      <Project Name="Bai6.1_Lab6" ConfigName="Release"/>
+      <Project Name="Bai6.2_Lab6" ConfigName="Release"/>
+      <Project Name="Bai7.1_Lab7" ConfigName="Release"/>
+      <Project Name="Bai7.2_Lab7" ConfigName="Release"/>
+      <Project Name="Bai7.3_Lab7" ConfigName="Release"/>
+      <Project Name="Bai7.4_Lab7" ConfigName="Release"/>
+      <Project Name="Bai7.5_Lab7" ConfigName="Release"/>
+      <Project Name="Bai8.1_Lab8" ConfigName="Release"/>
+      <Project Name="Bai8.2_Lab8" ConfigName="Release"/>
+      <Project Name="Bai9.1_Lab9" ConfigName="Release"/>
+      <Project Name="Bai9.2_Lab9" ConfigName="Release"/>
+      <Project Name="Bai9.3_Lab9" ConfigName="Release"/>
+      <Project Name="Bai9.4_Lab9" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
