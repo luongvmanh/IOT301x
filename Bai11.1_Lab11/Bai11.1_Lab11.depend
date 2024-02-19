@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701136311 source:d:\study\programming\mooc courses\funix\cc1\iot301x\labs\bai11.1_lab11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
